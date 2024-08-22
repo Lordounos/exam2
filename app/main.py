@@ -10,7 +10,7 @@ try:
         password="password",
         host="db",
         port="5432",
-        database="ваша_фамилия"
+        database="Шалыгин"
     )
 
     cursor = connection.cursor()
